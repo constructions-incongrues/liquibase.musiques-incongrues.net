@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>liquibase.musiques-incongrues.net</name>
+	<comment></comment>
+	<projects>
+		<project>incongru-manager-2000</project>
+		<project>musiques-incongrues.net</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
